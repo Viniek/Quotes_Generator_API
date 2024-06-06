@@ -1,0 +1,47 @@
+.header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  background-color: navy;
+  color:gold;
+  gap: 0;
+}
+
+.generate{
+  align-items: center;
+  background-color: #00A9FF;
+  display: flex;
+  justify-content: center;
+
+
+}
+
+#button{
+  height: 2rem;
+  background-color: orange;
+  color: white;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+
+.mybutton{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.loading{
+
+}
+
+.result{
+  display: block;
+  justify-content: center;
+  background-color: orange;
+  justify-content: center;
+}
