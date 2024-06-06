@@ -43,7 +43,7 @@ function App() {
     <>
       
       <div className="header">
-        <p>By Victory Njeri</p>
+        <p>&copy;Victory Njeri</p>
         <h1>RANDOM ADVICE GENERATOR</h1>
       </div>
       <Myapp />
