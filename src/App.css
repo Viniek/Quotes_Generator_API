@@ -20,7 +20,7 @@
 
 #button{
   height: 2rem;
-  background-color: orange;
+  background-color: orangered;
   color: white;
   font-weight: 700;
   display: flex;
@@ -42,6 +42,6 @@
 .result{
   display: block;
   justify-content: center;
-  background-color: orange;
+
   justify-content: center;
 }
